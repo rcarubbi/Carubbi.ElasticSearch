@@ -95,6 +95,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Carubbi.ElasticSearch.nuspec" />
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>
